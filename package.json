@@ -1,0 +1,17 @@
+{
+  "name": "ficusjs-snowpack-starter",
+  "version": "1.0.0",
+  "description": "FicusJS Snowpack starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "author": "Matt Levy",
+  "license": "MIT",
+  "devDependencies": {
+    "@ficusjs/renderers": "^3.1.0",
+    "ficusjs": "^3.5.0",
+    "snowpack": "^3.7.1"
+  }
+}
